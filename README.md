@@ -26,3 +26,4 @@ Nesta seção serão apresentados meus principais projetos acadêmicos e pessoai
 ## 📫 Contato
 
 - GitHub: [@paulogeandre](https://github.com/paulogeandre)
+- 
