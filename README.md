@@ -1,29 +1,23 @@
-# Olá! Eu sou Paulo 👋
+# Paulo Geandre Pinto
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo meu portfólio profissional na área de tecnologia.
+Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento de software, inteligência artificial e automação.
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estudando desenvolvimento web, linguagem C e SQL
-- 🤖 Tenho interesse em inteligência artificial e automação
-- 🚀 Busco desenvolver projetos para aplicar meus conhecimentos
-- 📚 Compartilho aqui minha evolução e meus projetos acadêmicos
+Atualmente, estudo desenvolvimento web, linguagem C e SQL. Busco aprimorar meus conhecimentos por meio de projetos acadêmicos e pessoais, compartilhando neste perfil minha evolução na área de tecnologia.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
-- HTML
-- CSS
+- HTML e CSS
 - JavaScript
 - Linguagem C
 - SQL
 - Git e GitHub
 
-## 📌 Projetos
+## Projetos
 
-Nesta seção serão apresentados meus principais projetos acadêmicos e pessoais.
+Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha formação.
 
-## 📫 Contato
+## Contato
 
-- GitHub: [@paulogeandre](https://github.com/paulogeandre)
-- 
+- GitHub: [paulogeandre](https://github.com/paulogeandre)
