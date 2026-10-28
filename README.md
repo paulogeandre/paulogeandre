@@ -1,30 +1,32 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Paulo Geandre Pinto — estudante de Análise e Desenvolvimento de Sistemas. Desenvolvimento web, inteligência artificial e automação.">
+  <img src="assets/banner.svg" width="100%" alt="Paulo Geandre — estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo. Front-end, Python e automação com n8n.">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ADS-Em%20forma%C3%A7%C3%A3o-5EEAD4?style=flat-square&labelColor=142231&color=5EEAD4" alt="Análise e Desenvolvimento de Sistemas — em formação">
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20web-60A5FA?style=flat-square&labelColor=142231" alt="Foco em desenvolvimento web">
-  <a href="https://github.com/paulogeandre?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Meus%20projetos-FFFFFF?style=flat-square&logo=github&logoColor=white&labelColor=142231" alt="Ver meus repositórios no GitHub"></a>
+  <a href="mailto:paulogeandre@gmail.com"><img src="https://img.shields.io/badge/E--mail-paulogeandre%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail: paulogeandre@gmail.com"></a>
+  <img src="https://img.shields.io/badge/Faculdade-Universidade%20Positivo-1F6FEB?style=flat-square" alt="Universidade Positivo">
 </p>
 
 ## Sobre mim
 
-Sou **Paulo Geandre Pinto**, estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em desenvolvimento de software, inteligência artificial e automação.
+Sou **Paulo Geandre**, estudante de **Análise e Desenvolvimento de Sistemas na Universidade Positivo**, com interesse em desenvolvimento de software, inteligência artificial e automação.
 
-Estou construindo minha base em desenvolvimento web, linguagem C e SQL. Nos projetos acadêmicos e pessoais, procuro entender o problema, organizar as informações e transformar os requisitos em interfaces e funcionalidades que possam ser testadas na prática.
+Na graduação, estudo programação, automação, banco de dados e desenvolvimento de interfaces. Nos projetos acadêmicos e pessoais, aplico esses conhecimentos para entender problemas, organizar requisitos e construir soluções que possam ser testadas na prática.
 
-- **Na prática:** projetos web com HTML, CSS e JavaScript.
-- **Em estudo:** linguagem C, SQL e modelagem de banco de dados.
-- **No processo:** versionamento com Git e GitHub, documentação e testes das regras dos projetos.
-- **Neste perfil:** minha evolução, os projetos que desenvolvo e o que aprendo ao construí-los.
+- **Programação:** Python e linguagem C.
+- **Automação:** criação de fluxos com n8n.
+- **Banco de dados:** SQL.
+- **Desenvolvimento web:** HTML e front-end para web.
+- **Design de sistemas:** prototipagem, interfaces e jornada do usuário.
 
 ## Tecnologias e ferramentas
 
 | Área | Tecnologias |
 | :-- | :-- |
-| **Desenvolvimento web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Em estudo** | ![C](https://img.shields.io/badge/Linguagem%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge) |
+| **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/Linguagem%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) |
+| **Automação e dados** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-334155?style=for-the-badge) |
+| **Desenvolvimento web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white) |
+| **Design e experiência** | ![Prototipagem](https://img.shields.io/badge/Prototipagem-6D28D9?style=for-the-badge) ![UI e UX](https://img.shields.io/badge/UI%20%2F%20UX-0F766E?style=for-the-badge) |
 | **Versionamento** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ## Projetos em destaque
@@ -61,10 +63,19 @@ Estou construindo minha base em desenvolvimento web, linguagem C e SQL. Nos proj
 
 ## Formação e aprendizado
 
-**Análise e Desenvolvimento de Sistemas — cursando.**
+**Análise e Desenvolvimento de Sistemas — Universidade Positivo.**
 
-Meu foco atual é consolidar os fundamentos de programação, desenvolvimento web e banco de dados, aplicando o conteúdo das aulas em projetos com documentação e controle de versão.
+Conteúdos estudados até o momento:
+
+- Python.
+- Automação com n8n.
+- Linguagem C.
+- SQL.
+- Prototipagem de Sistemas Computacionais.
+- Interface e Jornada do Usuário.
+- Desenvolvimento Front-end para Web e HTML.
 
 ## Contato
 
-Você pode acompanhar meus projetos e minha evolução por aqui: **[@paulogeandre](https://github.com/paulogeandre)**.
+**E-mail:** [paulogeandre@gmail.com](mailto:paulogeandre@gmail.com)<br>
+**GitHub:** [@paulogeandre](https://github.com/paulogeandre)

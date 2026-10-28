@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">Paulo Geandre Pinto</title>
-  <desc id="description">Estudante de Análise e Desenvolvimento de Sistemas. Desenvolvimento web, inteligência artificial e automação.</desc>
+  <title id="title">Paulo Geandre</title>
+  <desc id="description">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo. Front-end, Python e automação com n8n.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08131f"/><stop offset="1" stop-color="#132a36"/></linearGradient>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1020"/><stop offset=".55" stop-color="#101D36"/><stop offset="1" stop-color="#241C40"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#426272" stroke-width=".6"/></pattern>
     <clipPath id="frame"><rect width="1200" height="360" rx="22"/></clipPath>
@@ -15,14 +15,13 @@
   </g>
   <rect x=".5" y=".5" width="1199" height="359" rx="21.5" fill="none" stroke="#294352"/>
   <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="53" y="66" font-size="12" font-weight="700" letter-spacing="3" fill="#5eead4">DESENVOLVIMENTO DE SOFTWARE</text>
-    <text x="50" y="135" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#f1f5f9">Paulo Geandre Pinto</text>
+    <text x="53" y="66" font-size="12" font-weight="700" letter-spacing="3" fill="#60a5fa">OLÁ, EU SOU</text>
+    <text x="50" y="135" font-size="52" font-weight="700" letter-spacing="-1.4" fill="#f1f5f9">Paulo Geandre</text>
     <text x="53" y="179" font-size="19" fill="#d2dee8">Estudante de Análise e Desenvolvimento de Sistemas</text>
-    <text x="53" y="214" font-size="16" fill="#9ab0c0">Desenvolvimento web · Inteligência artificial · Automação</text>
-    <rect x="53" y="258" width="164" height="35" rx="17.5" fill="#17302f" stroke="#2d5c55"/>
-    <circle cx="72" cy="275.5" r="4" fill="#5eead4"/>
-    <text x="87" y="281" font-size="13" font-weight="600" fill="#c0f7eb">Em formação</text>
-    <text x="238" y="281" font-size="13" fill="#9ab0c0">github.com/paulogeandre</text>
+    <text x="53" y="214" font-size="16" fill="#9ab0c0">Front-end · Python · Automação com n8n</text>
+    <rect x="53" y="258" width="206" height="35" rx="17.5" fill="#142231" stroke="#30475f"/>
+    <text x="74" y="281" font-size="13" font-weight="600" fill="#dbeafe">Universidade Positivo</text>
+    <text x="283" y="281" font-size="13" fill="#9ab0c0">github.com/paulogeandre</text>
   </g>
   <g transform="translate(740 62)">
     <rect width="400" height="236" rx="13" fill="#0b1723" stroke="#345064"/>
@@ -30,10 +29,10 @@
     <circle cx="21" cy="20" r="4" fill="#557080"/><circle cx="36" cy="20" r="4" fill="#557080"/><circle cx="51" cy="20" r="4" fill="#5eead4"/>
     <g font-family="Consolas,monospace" font-size="13">
       <text x="189" y="25" fill="#9ab0c0">paulo.js</text>
-      <text x="24" y="80" fill="#94a3b8">01</text><text x="58" y="80" fill="#60a5fa">const</text><text x="105" y="80" fill="#e2e8f0">jornada = {</text>
-      <text x="24" y="111" fill="#94a3b8">02</text><text x="74" y="111" fill="#b8cad8">base:</text><text x="125" y="111" fill="#5eead4">"fundamentos",</text>
-      <text x="24" y="142" fill="#94a3b8">03</text><text x="74" y="142" fill="#b8cad8">prática:</text><text x="142" y="142" fill="#5eead4">"projetos web",</text>
-      <text x="24" y="173" fill="#94a3b8">04</text><text x="74" y="173" fill="#b8cad8">processo:</text><text x="153" y="173" fill="#5eead4">"aprender e testar"</text>
+      <text x="24" y="80" fill="#94a3b8">01</text><text x="58" y="80" fill="#60a5fa">const</text><text x="105" y="80" fill="#e2e8f0">paulo = {</text>
+      <text x="24" y="111" fill="#94a3b8">02</text><text x="58" y="111" fill="#b8cad8" font-size="12">curso: <tspan fill="#5eead4">"ADS · Universidade Positivo",</tspan></text>
+      <text x="24" y="142" fill="#94a3b8">03</text><text x="58" y="142" fill="#b8cad8" font-size="12">estudos: <tspan fill="#5eead4">["Python", "C", "SQL"],</tspan></text>
+      <text x="24" y="173" fill="#94a3b8">04</text><text x="58" y="173" fill="#b8cad8" font-size="12">prática: <tspan fill="#5eead4">["HTML", "n8n", "UI/UX"]</tspan></text>
       <text x="24" y="204" fill="#94a3b8">05</text><text x="58" y="204" fill="#e2e8f0">};</text>
     </g>
   </g>
