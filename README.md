@@ -47,7 +47,7 @@ Na graduação, estudo programação, automação, banco de dados e desenvolvime
       <p><a href="https://paulogeandre.github.io/petvida-clinica/"><b>Ver demonstração</b></a> · <a href="https://github.com/paulogeandre/petvida-clinica">Ver código</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/paulogeandre/Portif-lio">
+      <a href="https://github.com/paulogeandre/portfolio">
         <img src="assets/portfolio.svg" width="100%" alt="Capa ilustrativa do projeto Meu primeiro portfólio, desenvolvido com HTML e CSS">
       </a>
       <h3>Meu primeiro portfólio</h3>
@@ -56,7 +56,7 @@ Na graduação, estudo programação, automação, banco de dados e desenvolvime
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
       </p>
-      <p><a href="https://github.com/paulogeandre/Portif-lio"><b>Explorar o projeto</b></a></p>
+      <p><a href="https://github.com/paulogeandre/portfolio"><b>Explorar o projeto</b></a></p>
     </td>
   </tr>
 </table>
